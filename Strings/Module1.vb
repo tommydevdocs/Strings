@@ -21,9 +21,6 @@
             Console.WriteLine(phrase)
         Next
 
-
-
-
         Console.ReadLine()
 
         
