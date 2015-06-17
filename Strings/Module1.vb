@@ -26,8 +26,7 @@
 
         Console.ReadLine()
 
-        'Console.WriteLine(strings)
-        'Console.ReadLine()
+        
     End Sub
 
 End Module
